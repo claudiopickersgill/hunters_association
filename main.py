@@ -4,7 +4,7 @@ from pages.users import user, associar
 from pages.mapas import maps
 from pages.login import login
 
-st.set_page_config(layout="centered")
+st.set_page_config(layout="wide")
 
 # Menu lateral
 st.sidebar.title("Menu")
