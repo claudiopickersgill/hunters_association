@@ -1,5 +1,6 @@
 import streamlit as st
 
+
 def guildas():
 
     st.markdown("<h1 style='text-align: center; color: grey;'>Guildas da Associação Norte Americana!</h1>",

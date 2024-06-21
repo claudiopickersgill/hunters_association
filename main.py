@@ -1,6 +1,6 @@
 import streamlit as st
 from pages.principal import principal
-from pages.users import user, associar
+from pages.users import associar
 from pages.mapas import maps
 from pages.login import login
 
