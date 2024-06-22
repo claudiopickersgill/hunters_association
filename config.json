@@ -1,0 +1,58 @@
+{
+    "id1": {
+        "name": "Associacao dos Cacadores dos Estados Unidos da America",
+        "rank": "-",
+        "sede": "The Continental - NY",
+        "lat": 40.705352,
+        "long": -74.008196
+    },
+    "id2": {
+        "name": "Guilda Laminas da Aurora",
+        "rank": "S",
+        "sede": "Forte Lewis, Washington",
+        "lat": 47.125820,
+        "long": -122.601821
+    },
+    "id3": {
+        "name": "Guilda Sabios Arcanos",
+        "rank": "A",
+        "sede": "Harvard University, Massachusetts",
+        "lat": 42.374247,
+        "long": -71.116647
+    },
+    "id4": {
+        "name": "Guilda Alvorada",
+        "rank": "B",
+        "sede": "Rocky Mountain National Park, Colorado",
+        "lat": 40.344373,
+        "long": -105.687317
+    },
+    "id5": {
+        "name": "Guilda Vanguarda",
+        "rank": "A",
+        "sede": "Silicon Valley, California",
+        "lat": 37.334396,
+        "long": -122.009069
+    },
+    "id6": {
+        "name": "Guilda Sombras",
+        "rank": "S",
+        "sede": "-",
+        "lat": 65.528643,
+        "long": -152.757442
+    },
+    "id7": {
+        "name": "Quebra de Portal",
+        "rank": "S",
+        "sede": "Parque Nacional do Havai",
+        "lat": 19.709445,
+        "long": -155.473451
+    },
+    "id8": {
+        "name": "Quebra de Portal",
+        "rank": "S",
+        "sede": "US Old Fort - Cuba",
+        "lat": 19.938009,
+        "long": -75.171876
+    }
+}
